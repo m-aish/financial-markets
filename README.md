@@ -1,2 +1,2 @@
-# financial-markets
-This repository contains my handwritten notes from the online course "Financial Markets" taught by Prof. Robert Shiller from Yale University on Coursera.
+# Financial Markets
+This repository contains my handwritten notes from the online course "Financial Markets" taught by Prof. Robert Shiller from Yale University on Coursera. The course can be found [here](https://www.coursera.org/learn/financial-markets-global). As someone who tends to learn best from handwritten notes, I made these notes mostly to aid my own understanding and I might have skipped some sections, so these notes will supplement anyone trying to go through the course but have little value as a stand-alone resource.
